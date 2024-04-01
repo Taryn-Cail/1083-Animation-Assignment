@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Dog
+comment0.text=\r\n\ CS1083\ -\ Assignment\ 3\ -\ Ellie\ Class\r\n\ \r\n\ @author\ -\ Taryn\ Cail\r\n\ @version\ -\ 1.0\r\n\ @date\ -\ February\ 17th,\ 2024\r\n
+comment1.params=x\ y
+comment1.target=Dog(int,\ int)
+numComments=2

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Snowman
+comment0.text=\r\n\ CS1083\ -\ Assignment\ 3\ -\ Snowman\r\n\ \r\n\ Purpose\:\ To\ create\ a\ snowman\ on\ grass\ with\ a\ button\ that\ changes\ the\ \r\n\ \ \ \ \ \ \ \ \ \ scene\ from\ day\ to\ night.\r\n\ \ \ \ \ \ \ \ \ \ \r\n\ @author\ -\ Taryn\ Cail\r\n\ @version\ -\ 1.0\r\n\ @date\ -\ February\ 15th,\ 2024\r\n
+comment1.params=primaryStage
+comment1.target=void\ start(javafx.stage.Stage)
+comment1.text=\r\n\ Method\:\ Start\r\n\ \r\n\ Purpose\:\ To\ layout\ my\ landscape,\ draw\ my\ snowman\ and\ present\ my\r\n\ \ \ \ \ \ \ \ \ \ stage.\r\n
+numComments=2

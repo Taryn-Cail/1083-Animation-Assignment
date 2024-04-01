@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Person
+comment1.params=x\ y\ shirtColor
+comment1.target=Person(int,\ int,\ javafx.scene.paint.Color)
+numComments=2

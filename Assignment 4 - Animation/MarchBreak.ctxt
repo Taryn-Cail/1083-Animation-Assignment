@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MarchBreak
+comment0.text=\r\n\ CS1083\ -\ Assignment\ 3\ -\ March\ Break\ Actvity\r\n\ \r\n\ Purpose\:\ To\ create\ an\ animated\ scene\ of\ your\ favorite\ march\ break\ activity.\r\n\ \ \ \ \ \ \ \ \ \ Mine\ is\ me\ and\ my\ siblings\ winning\ a\ fortnite\ game,\ alongside\ our\r\n\ \ \ \ \ \ \ \ \ \ dog\ Ellie.\r\n\ \r\n\ @author\ -\ Taryn\ Cail\r\n\ @version\ -\ 1.0\r\n\ @date\ -\ February\ 15th,\ 2024\r\n
+comment1.params=primaryStage
+comment1.target=void\ start(javafx.stage.Stage)
+comment1.text=\r\n\ Method\:\ Start\r\n\ \r\n\ Purpose\:\ To\ layout\ my\ scene\ and\ start\ the\ animation\r\n
+numComments=2
